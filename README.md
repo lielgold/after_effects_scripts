@@ -1,3 +1,8 @@
-This repository contains a bunch of Adobe After Effects 2024 scripts.
+This is an After Effects 2024 Scripts Collection.
 
-move_layers_ae - move layers together at a specific direction, at random speed.
+# move_layers_ae:
+
+Move layers together at a specific direction. Each layer moves at a different random speed.
+  1. Select the layers you want to move.
+  2. Select movement duration, direction, and minimal and maximum movement speed.
+  3. Press "move layers".
