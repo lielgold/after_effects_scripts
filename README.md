@@ -16,9 +16,10 @@ To do this, first update the layer names to reflect their respective inPoints. T
 
 How to use it:
 
-1. Press the checkmark at the bottom - "Use layer inPoint instead of layer start time". 
-2. Press "rename layer names to their start time".
-3. Move the layers in the timeline window.
-4. Press "move layers start time to their name" to bring them back to their original inPoints.
+1. Select the layers you want to change.
+2. Press the checkmark at the bottom - "Use layer inPoint instead of layer start time". 
+3. Press "rename layer names to their start time".
+4. Move the layers in the timeline window.
+5. Press "move layers start time to their name" to bring them back to their original inPoints.
 
 You can also use the layer's notes field instead of the layer name, if you care to preserve the original name.
